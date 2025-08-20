@@ -1,6 +1,6 @@
-# 🎓 Student Placement Analysis
+#  Student Placement Analysis
 
-## 📌 Introduction
+##  Introduction
 The **Student Placement Analysis** project aims to study the factors that influence students' **final academic performance (G3 grade)**.  
 The dataset contains demographic, family, and lifestyle information of students such as age, gender, address, parents' education level, study time, absences, and more.  
 
@@ -10,7 +10,7 @@ The dataset contains demographic, family, and lifestyle information of students 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The dataset includes the following features:
 
 - **school**: Student’s school  
@@ -33,10 +33,9 @@ The dataset includes the following features:
 
 ---
 
-## ⚙️ Methodology
+## ⚙Methodology
 1. **Data Preprocessing**  
    - Handle missing values and encode categorical variables (One-Hot Encoding).  
-   - Normalize/scale features for regression.  
 
 2. **Exploratory Data Analysis (EDA)**  
    - Descriptive statistics and data distribution.  
